@@ -16,6 +16,8 @@ work</a> © 2026 is licensed under
 <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative
 Commons Attribution-ShareAlike 4.0 International</a>
 
+<a href="https://doi.org/10.5281/zenodo.18128741"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18128741.svg" alt="DOI"></a>
+
 <!-- badges: end -->
 
 ------------------------------------------------------------------------
@@ -65,8 +67,7 @@ translations of the wordlist are computationally joined:
 > (2026). *Digitised wordlist for Nias (1911) derived from Stokhof and
 > Almanar’s ‘Holle lists: Vocabularies in languages of Indonesia, Vol.
 > 10/3: Islands off the west coast of Sumatra’ from 1987* (Version
-> 1.0.0) \[Dataset\].
-> <https://github.com/Holle-List/nias1911-holle-list>
+> 1.0.0) \[Dataset\]. <https://doi.org/10.5281/zenodo.18128741>
 
 ## References
 
@@ -87,7 +88,7 @@ Rajeg, G. P. W., Dewani, A. G. C., Dabukke, M. D. E., & Ellena, N. R.
 (2026). *Digitised wordlist for Nias (1911) derived from Stokhof and
 Almanar’s "Holle lists: Vocabularies in languages of Indonesia, Vol.
 10/3: Islands off the west coast of Sumatra" from 1987* (Version 1.0.0)
-\[Dataset\]. <https://github.com/Holle-List/nias1911-holle-list>
+\[Dataset\]. <https://doi.org/10.5281/zenodo.18128741>
 
 </div>
 
