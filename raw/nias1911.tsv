@@ -31,10 +31,10 @@ the Nias 1911 list	34	boha	NA	kies	molar	geraham	18	19	29	FALSE									MOLAR TO
 the Nias 1911 list	35	ngingi	NA	tandvlees	gums	gusi	-	-	30	FALSE									GUMS	139	https://concepticon.clld.org/parameters/139
 the Nias 1911 list	37	tôlôtôlô	NA	keel	throat	kerongkongan	14	15	32	FALSE									THROAT	1346	https://concepticon.clld.org/parameters/1346
 the Nias 1911 list	38	bagi	NA	hals	neck	leher	27	28	33	TRUE									NECK	1333	https://concepticon.clld.org/parameters/1333
-the Nias 1911 list	41/42	toto	2	borsten < unsp. >	breasts	payudara	34	36	-	TRUE			toto						BREAST	1402	https://concepticon.clld.org/parameters/1402
-the Nias 1911 list	41/42	toto'a	2	borsten < unsp. >	breasts	payudara	34	36	-	TRUE			toto'a						BREAST	1402	https://concepticon.clld.org/parameters/1402
-the Nias 1911 list	41/42	meme	2	borsten < unsp. >	breasts	payudara	34	36	-	TRUE			meme						BREAST	1402	https://concepticon.clld.org/parameters/1402
-the Nias 1911 list	41/42	soesoe	2	borsten < unsp. >	breasts	payudara	34	36	-	TRUE			soesoe						BREAST	1402	https://concepticon.clld.org/parameters/1402
+the Nias 1911 list	41/42	toto	2	borsten < unsp. >	chest, breast (male) [ID_41]; breasts (female) [ID_42]	dada (laki-laki, jamak) [ID_41]; dada (perempuan, jamak) [ID_42]	34	36	-	TRUE			toto						BREAST	1402	https://concepticon.clld.org/parameters/1402
+the Nias 1911 list	41/42	toto'a	2	borsten < unsp. >	chest, breast (male) [ID_41]; breasts (female) [ID_42]	dada (laki-laki, jamak) [ID_41]; dada (perempuan, jamak) [ID_42]	34	36	-	TRUE			toto'a						BREAST	1402	https://concepticon.clld.org/parameters/1402
+the Nias 1911 list	41/42	meme	2	borsten < unsp. >	chest, breast (male) [ID_41]; breasts (female) [ID_42]	dada (laki-laki, jamak) [ID_41]; dada (perempuan, jamak) [ID_42]	34	36	-	TRUE			meme						BREAST	1402	https://concepticon.clld.org/parameters/1402
+the Nias 1911 list	41/42	soesoe	2	borsten < unsp. >	chest, breast (male) [ID_41]; breasts (female) [ID_42]	dada (laki-laki, jamak) [ID_41]; dada (perempuan, jamak) [ID_42]	34	36	-	TRUE			soesoe						BREAST	1402	https://concepticon.clld.org/parameters/1402
 the Nias 1911 list	45	balô meme	NA	tepel	nipple	puting susu	35	37	38	FALSE									NIPPLE	796	https://concepticon.clld.org/parameters/796
 the Nias 1911 list	45	balô zoesoe	NA	tepel	nipple	puting susu	35	37	38	FALSE									NIPPLE	796	https://concepticon.clld.org/parameters/796
 the Nias 1911 list	46	ŵe zoesoe	NA	melk	breast milk	air susu	36	38	39	FALSE									BREAST MILK	3912	https://concepticon.clld.org/parameters/3912
@@ -112,8 +112,8 @@ the Nias 1911 list	134	aboeso	NA	zat, verzadigd	replete, satisfied	kenyang, puas
 the Nias 1911 list	137	tôlô	NA	slikken	to swallow	telan	118	120	-	FALSE									SWALLOW	897	https://concepticon.clld.org/parameters/897
 the Nias 1911 list	137	manôlô	NA	slikken	to swallow	telan	118	120	-	FALSE									SWALLOW	897	https://concepticon.clld.org/parameters/897
 the Nias 1911 list	138	môrô	NA	slapen	to sleep	tidur	119	121	114	TRUE	sleep								SLEEP	1585	https://concepticon.clld.org/parameters/1585
-the Nias 1911 list	139/140	fabgifi	NA	dromen, droom <unsp.>	dream	mimpi	120	122	-	FALSE									DREAMING OR DREAM	2455	https://concepticon.clld.org/parameters/2455
-the Nias 1911 list	139/140	mangifi	NA	dromen, droom <unsp.>	dream	mimpi	120	122	-	FALSE									DREAMING OR DREAM	2455	https://concepticon.clld.org/parameters/2455
+the Nias 1911 list	139/140	fabgifi	NA	dromen, droom <unsp.>	to dream [ID_139]; dream [ID_140]	bermimpi [ID_139]; impian [ID_140]	120	122	-	FALSE									DREAMING OR DREAM	2455	https://concepticon.clld.org/parameters/2455
+the Nias 1911 list	139/140	mangifi	NA	dromen, droom <unsp.>	to dream [ID_139]; dream [ID_140]	bermimpi [ID_139]; impian [ID_140]	120	122	-	FALSE									DREAMING OR DREAM	2455	https://concepticon.clld.org/parameters/2455
 the Nias 1911 list	144	soemindro	NA	staan	to stand	berdiri	121	123	120	TRUE	stand								STAND	1442	https://concepticon.clld.org/parameters/1442
 the Nias 1911 list	145	foeloi	NA	lopen	to walk	berjalan	122	124	121	TRUE	walk								WALK	1443	https://concepticon.clld.org/parameters/1443
 the Nias 1911 list	145	fagohi	NA	lopen	to walk	berjalan	122	124	121	TRUE	walk								WALK	1443	https://concepticon.clld.org/parameters/1443
@@ -225,20 +225,20 @@ the Nias 1911 list	242	si alawe	NA	vrouw	woman	orang perempuan	76	78	194	TRUE			
 the Nias 1911 list	243	matoea	NA	mannelijk (v.d. mens)	male (human)	laki-laki	110	111	195	FALSE									MALE (OF PERSON)	2261	https://concepticon.clld.org/parameters/2261
 the Nias 1911 list	243	ira matoea	NA	mannelijk (v.d. mens)	male (human)	laki-laki	110	111	195	FALSE									MALE (OF PERSON)	2261	https://concepticon.clld.org/parameters/2261
 the Nias 1911 list	244	si matoea	NA	mannelijk (v.d.dieren)	male (animal)	jantan	110	111	195	FALSE									MALE (OF ANIMAL)	2263	https://concepticon.clld.org/parameters/2263
-the Nias 1911 list	243/244	si matoea	NA	mannelijk <unsp.>	male	pria	110	111	195	FALSE									MALE	1553	https://concepticon.clld.org/parameters/1553
+the Nias 1911 list	243/244	si matoea	NA	mannelijk <unsp.>	male (human) [ID_243]; male (animal) [ID_244]	laki-laki [ID_243]; jantan [ID_244]	110	111	195	FALSE									MALE	1553	https://concepticon.clld.org/parameters/1553
 the Nias 1911 list	245	alawe	NA	vrouwelijk (v.d.mens)	female (human)	perempuan	112	113	196	FALSE									FEMALE (OF PERSON)	2260	https://concepticon.clld.org/parameters/2260
 the Nias 1911 list	246	si alawe	NA	vrouwelijk (v.d. dieren)	female (animal)	betina	112	113	196	FALSE									FEMALE (OF ANIMAL)	2262	https://concepticon.clld.org/parameters/2262
-the Nias 1911 list	245/246	si alawe	NA	vrouwelijk <unsp.>	female	perempuan	112	113	196	FALSE									FEMALE	1551	https://concepticon.clld.org/parameters/1551
-the Nias 1911 list	248/249	ono alawe	NA	maagd, maagdom <unsp.>			77	79	-	FALSE									NA	NA	NA
-the Nias 1911 list	248/249	fa'aona'alawe	NA	maagd, maagdom <unsp.>			77	79	-	FALSE									NA	NA	NA
+the Nias 1911 list	245/246	si alawe	NA	vrouwelijk <unsp.>	female (human) [ID_245]; female (animal) [ID_246]	perempuan [ID_245]; betina [ID_246]	112	113	196	FALSE									FEMALE	1551	https://concepticon.clld.org/parameters/1551
+the Nias 1911 list	248/249	ono alawe	NA	maagd, maagdom <unsp.>	virgin [ID_248]; virginity [ID_249]	gadis [ID_248]; perawan, kegadisan [ID_249]	77	79	-	FALSE									NA	NA	NA
+the Nias 1911 list	248/249	fa'aona'alawe	NA	maagd, maagdom <unsp.>	virgin [ID_248]; virginity [ID_249]	gadis [ID_248]; perawan, kegadisan [ID_249]	77	79	-	FALSE									NA	NA	NA
 the Nias 1911 list	250	ono matoea	NA	jongen	boy, lad	anak laki-laki	78	80	-	FALSE									BOY OR SON	2391	https://concepticon.clld.org/parameters/2391
 the Nias 1911 list	252	one alawe	NA	meisje	girl	gadis	79	81	-	FALSE									GIRL	1646	https://concepticon.clld.org/parameters/1646
 the Nias 1911 list	255	ama	NA	vader	father	ayah	80	82	201	TRUE									FATHER	1217	https://concepticon.clld.org/parameters/1217
 the Nias 1911 list	256	ina	NA	moeder	mother	ibu	81	83	202	TRUE									MOTHER	1216	https://concepticon.clld.org/parameters/1216
-the Nias 1911 list	257/258	alawe	15	kind <unsp.>	child	anak	82	84	203	TRUE			alawe						CHILD	2099	https://concepticon.clld.org/parameters/2099
-the Nias 1911 list	257/258	ira alawe	15	kind <unsp.>	child	anak	82	84	203	TRUE			ira alawe						CHILD	2099	https://concepticon.clld.org/parameters/2099
-the Nias 1911 list	257/258	donga	15	kind <unsp.>	child	anak	82	84	203	TRUE			donga						CHILD	2099	https://concepticon.clld.org/parameters/2099
-the Nias 1911 list	257/258	fo'omo	15	kind <unsp.>	child	anak	82	84	203	TRUE			fo'omo						CHILD	2099	https://concepticon.clld.org/parameters/2099
+the Nias 1911 list	257/258	alawe	15	kind <unsp.>	oldest child [ID_257]; youngest child [ID_258]	anak sulung [ID_257]; anak bungsu [ID_258]	82	84	203	TRUE			alawe						CHILD	2099	https://concepticon.clld.org/parameters/2099
+the Nias 1911 list	257/258	ira alawe	15	kind <unsp.>	oldest child [ID_257]; youngest child [ID_258]	anak sulung [ID_257]; anak bungsu [ID_258]	82	84	203	TRUE			ira alawe						CHILD	2099	https://concepticon.clld.org/parameters/2099
+the Nias 1911 list	257/258	donga	15	kind <unsp.>	oldest child [ID_257]; youngest child [ID_258]	anak sulung [ID_257]; anak bungsu [ID_258]	82	84	203	TRUE			donga						CHILD	2099	https://concepticon.clld.org/parameters/2099
+the Nias 1911 list	257/258	fo'omo	15	kind <unsp.>	oldest child [ID_257]; youngest child [ID_258]	anak sulung [ID_257]; anak bungsu [ID_258]	82	84	203	TRUE			fo'omo						CHILD	2099	https://concepticon.clld.org/parameters/2099
 the Nias 1911 list	261	one matoea	NA	zoon	son	anak laki-laki	83	85	-	FALSE									SON	1620	https://concepticon.clld.org/parameters/1620
 the Nias 1911 list	262	one alawe	NA	dochter	daughter	anak perempuan	84	86	-	FALSE									DAUGHTER	1357	https://concepticon.clld.org/parameters/1357
 the Nias 1911 list	263	toea	NA	grootvader	grandfather	nenek laki-laki (kakek)	85	87	207	FALSE									GRANDFATHER	1383	https://concepticon.clld.org/parameters/1383
@@ -251,19 +251,19 @@ the Nias 1911 list	267	satoea	NA	voorouders	ancestors	leluhur, nenek moyang	88	8
 the Nias 1911 list	268	talifoesô	NA	broeder	brother	saudara laki-laki	90	91	-	TRUE									BROTHER	1262	https://concepticon.clld.org/parameters/1262
 the Nias 1911 list	268	iwa	NA	broeder	brother	saudara laki-laki	90	91	-	TRUE									BROTHER	1262	https://concepticon.clld.org/parameters/1262
 the Nias 1911 list	269	talifoesô alawe	NA	zuster	sister	saudara perempuan	91	92	-	TRUE									SISTER	1263	https://concepticon.clld.org/parameters/1263
-the Nias 1911 list	270/271	ka'a	NA	oudere broeder, zuster <unsp.>			92	93	209	TRUE	older brother/sister								NA	NA	NA
-the Nias 1911 list	272/273	si achi	NA	jongere broeder, zuster <unsp.>			93	94	210	TRUE	younger brother/sister								NA	NA	NA
-the Nias 1911 list	272/273	achi	NA	jongere broeder, zuster <unsp.>			93	94	210	TRUE	younger brother/sister								NA	NA	NA
+the Nias 1911 list	270/271	ka'a	NA	oudere broeder, zuster <unsp.>	older brother [ID_270]; older sister [ID_271]	kakak laki-laki (kandung) [ID_270]; kakak perempuan (kandung) [ID_271]	92	93	209	TRUE	older brother/sister								NA	NA	NA
+the Nias 1911 list	272/273	si achi	NA	jongere broeder, zuster <unsp.>	younger brother [ID_272]; younger sister [ID_273]	adik laki-laki (kandung) [ID_272]; adik perempuan (kandung) [ID_273]	93	94	210	TRUE	younger brother/sister								NA	NA	NA
+the Nias 1911 list	272/273	achi	NA	jongere broeder, zuster <unsp.>	younger brother [ID_272]; younger sister [ID_273]	adik laki-laki (kandung) [ID_272]; adik perempuan (kandung) [ID_273]	93	94	210	TRUE	younger brother/sister								NA	NA	NA
 the Nias 1911 list	274	ma'oewoe	NA	kleinkind	grandchild	cucu	94	95	211	FALSE									GRANDCHILD	1617	https://concepticon.clld.org/parameters/1617
-the Nias 1911 list	275/276	ama	NA	oom <unsp.>	uncle	paman	95	96	212	FALSE									UNCLE	1327	https://concepticon.clld.org/parameters/1327
-the Nias 1911 list	275/276	sibaja	NA	oom <unsp.>	uncle	paman	95	96	212	FALSE									UNCLE	1327	https://concepticon.clld.org/parameters/1327
-the Nias 1911 list	277-280	ama sia'a	16	oom <unsp.>			96	97	-	FALSE			ama sia'a						NA	NA	NA
-the Nias 1911 list	277-280	a si achi	16	oom <unsp.>			96	97	-	FALSE			a si achi						NA	NA	NA
-the Nias 1911 list	277-280	sibaja sia'a	16	oom <unsp.>			96	97	-	FALSE			sibaja sia'a						NA	NA	NA
-the Nias 1911 list	277-280	sibaja si achi	16	oom <unsp.>			96	97	-	FALSE			sibaja si achi						NA	NA	NA
-the Nias 1911 list	281-286	ina	17	tante <unsp.>			97	98	-	FALSE			ina				but “ama taloe” and “ina taloe” ‘uncle and aunt, there between children <?>’		NA	NA	NA
-the Nias 1911 list	281-286	ina sia'a	17	tante <unsp.>			97	98	-	FALSE			ina sia'a				but “ama taloe” and “ina taloe” ‘uncle and aunt, there between children <?>’		NA	NA	NA
-the Nias 1911 list	281-286	a si achi	17	tante <unsp.>			97	98	-	FALSE			a si achi				but “ama taloe” and “ina taloe” ‘uncle and aunt, there between children <?>’		NA	NA	NA
+the Nias 1911 list	275/276	ama	NA	oom <unsp.>	uncle FB [ID_275]; uncle MB [ID_276]	paman FB [ID_275]; paman MB [ID_276]	95	96	212	FALSE									UNCLE	1327	https://concepticon.clld.org/parameters/1327
+the Nias 1911 list	275/276	sibaja	NA	oom <unsp.>	uncle FB [ID_275]; uncle MB [ID_276]	paman FB [ID_275]; paman MB [ID_276]	95	96	212	FALSE									UNCLE	1327	https://concepticon.clld.org/parameters/1327
+the Nias 1911 list	277-280	ama sia'a	16	oom <unsp.>	uncle FBo [ID_277]; uncle FBy [ID_278]; uncle MBo [ID_279]; uncle MBy [ID_280]	paman FBo [ID_277]; paman FBy [ID_278]; paman MBo [ID_279]; paman MBy [ID_280]	96	97	-	FALSE			ama sia'a						NA	NA	NA
+the Nias 1911 list	277-280	a si achi	16	oom <unsp.>	uncle FBo [ID_277]; uncle FBy [ID_278]; uncle MBo [ID_279]; uncle MBy [ID_280]	paman FBo [ID_277]; paman FBy [ID_278]; paman MBo [ID_279]; paman MBy [ID_280]	96	97	-	FALSE			a si achi						NA	NA	NA
+the Nias 1911 list	277-280	sibaja sia'a	16	oom <unsp.>	uncle FBo [ID_277]; uncle FBy [ID_278]; uncle MBo [ID_279]; uncle MBy [ID_280]	paman FBo [ID_277]; paman FBy [ID_278]; paman MBo [ID_279]; paman MBy [ID_280]	96	97	-	FALSE			sibaja sia'a						NA	NA	NA
+the Nias 1911 list	277-280	sibaja si achi	16	oom <unsp.>	uncle FBo [ID_277]; uncle FBy [ID_278]; uncle MBo [ID_279]; uncle MBy [ID_280]	paman FBo [ID_277]; paman FBy [ID_278]; paman MBo [ID_279]; paman MBy [ID_280]	96	97	-	FALSE			sibaja si achi						NA	NA	NA
+the Nias 1911 list	281-286	ina	17	tante <unsp.>	aunt FZ [ID_281]; aunt MZ [ID_282]; aunt FZo [ID_283]; aunt FZy [ID_284]; aunt MZo [ID_285]; aunt MZy [ID_286]	bibi FZ [ID_281]; bibi MZ [ID_282]; bibi FZo [ID_283]; bibi FZy [ID_284]; bibi MZo [ID_285]; bibi MZy [ID_286]	97	98	-	FALSE			ina				but “ama taloe” and “ina taloe” ‘uncle and aunt, there between children <?>’		NA	NA	NA
+the Nias 1911 list	281-286	ina sia'a	17	tante <unsp.>	aunt FZ [ID_281]; aunt MZ [ID_282]; aunt FZo [ID_283]; aunt FZy [ID_284]; aunt MZo [ID_285]; aunt MZy [ID_286]	bibi FZ [ID_281]; bibi MZ [ID_282]; bibi FZo [ID_283]; bibi FZy [ID_284]; bibi MZo [ID_285]; bibi MZy [ID_286]	97	98	-	FALSE			ina sia'a				but “ama taloe” and “ina taloe” ‘uncle and aunt, there between children <?>’		NA	NA	NA
+the Nias 1911 list	281-286	a si achi	17	tante <unsp.>	aunt FZ [ID_281]; aunt MZ [ID_282]; aunt FZo [ID_283]; aunt FZy [ID_284]; aunt MZo [ID_285]; aunt MZy [ID_286]	bibi FZ [ID_281]; bibi MZ [ID_282]; bibi FZo [ID_283]; bibi FZy [ID_284]; bibi MZo [ID_285]; bibi MZy [ID_286]	97	98	-	FALSE			a si achi				but “ama taloe” and “ina taloe” ‘uncle and aunt, there between children <?>’		NA	NA	NA
 the Nias 1911 list	287	ono	NA	neef <BoS>	nephew BoS	kemenakan (laki-laki) BoS	98	99	-	FALSE									NEPHEW	1063	https://concepticon.clld.org/parameters/1063
 the Nias 1911 list	287	tana nono	NA	neef <BoS>	nephew BoS	kemenakan (laki-laki) BoS	98	99	-	FALSE									NEPHEW	1063	https://concepticon.clld.org/parameters/1063
 the Nias 1911 list	288	ono	NA	neef <ByS>	nephew ByS	kemenakan (laki-laki) ByS	98	99	-	FALSE									NEPHEW	1063	https://concepticon.clld.org/parameters/1063
@@ -272,21 +272,21 @@ the Nias 1911 list	289	ono mbene'ô	NA	neef <ZoS>	nephew ZoS	kemenakan laki-lak
 the Nias 1911 list	289	fadono	NA	neef <ZoS>	nephew ZoS	kemenakan laki-laki ZoS	98	99	-	FALSE									NEPHEW	1063	https://concepticon.clld.org/parameters/1063
 the Nias 1911 list	290	ono mbene'ô	NA	neef <ZyS>	nephew ZyS	kemenakan laki-laki ZyS	98	99	-	FALSE									NEPHEW	1063	https://concepticon.clld.org/parameters/1063
 the Nias 1911 list	290	fadono	NA	neef <ZyS>	nephew ZyS	kemenakan laki-laki ZyS	98	99	-	FALSE									NEPHEW	1063	https://concepticon.clld.org/parameters/1063
-the Nias 1911 list	291-294	talifoesô alawe	NA	nicht <unsp.>			99	100	215	FALSE									NA	NA	NA
+the Nias 1911 list	291-294	talifoesô alawe	NA	nicht <unsp.>	niece BoD [ID_291]; niece ByD [ID_292]; niece ZoD [ID_293]; niece ZyD [ID_294]	kemenakan perempuan BoD [ID_291]; kemenakan perempuan ByD [ID_292]; kemenakan perempuan ZoD [ID_293]; kemenakan perempuan ZyD [ID_294]	99	100	215	FALSE									NA	NA	NA
 the Nias 1911 list	295	talifoeso	18	neef <FB/FZS, MB/MZS>	cousin FB/FZS MB/MZS	saudara sepupu laki-laki FB/FZS, MB/MZS	98	99	214	FALSE			talifoeso	brother’s son					MALE COUSIN	3822	https://concepticon.clld.org/parameters/3822
 the Nias 1911 list	295	iwa	18	neef <FB/FZS, MB/MZS>	cousin FB/FZS MB/MZS	saudara sepupu laki-laki FB/FZS, MB/MZS	98	99	214	FALSE			iwa	brother’s son					MALE COUSIN	3822	https://concepticon.clld.org/parameters/3822
 the Nias 1911 list	295	sibaja	18	neef <FB/FZS, MB/MZS>	cousin FB/FZS MB/MZS	saudara sepupu laki-laki FB/FZS, MB/MZS	98	99	214	FALSE			sibaja	sister’s son					MALE COUSIN	3822	https://concepticon.clld.org/parameters/3822
 the Nias 1911 list	296	ono mbene'o	NA	nicht <FB/FZD, MB/FZD>	cousin FB/FZD MB/MZD	saudara sepupu perempuan FB/FZD, MB/MZD	98	99	214	FALSE									FEMALE COUSIN	3823	https://concepticon.clld.org/parameters/3823
-the Nias 1911 list	297/298	matoea	19	schoonouders wederzijdse ouders der gehuwden <unsp.>			-	100a	-	FALSE			matoea	wife’s parents					NA	NA	NA
-the Nias 1911 list	297/298	ama en ina	19	schoonouders wederzijdse ouders der gehuwden <unsp.>			-	100a	-	FALSE			ama en ina	husband’s parents					NA	NA	NA
+the Nias 1911 list	297/298	matoea	19	schoonouders wederzijdse ouders der gehuwden <unsp.>	parents-in-law [ID_297]; respective parents of the married couple [ID_298]	mertua [ID_297]; besan [ID_298]	-	100a	-	FALSE			matoea	wife’s parents					NA	NA	NA
+the Nias 1911 list	297/298	ama en ina	19	schoonouders wederzijdse ouders der gehuwden <unsp.>	parents-in-law [ID_297]; respective parents of the married couple [ID_298]	mertua [ID_297]; besan [ID_298]	-	100a	-	FALSE			ama en ina	husband’s parents					NA	NA	NA
 the Nias 1911 list	299	oemônô	NA	schoonzoon	son-in-law	menantu laki-laki	100	101	-	FALSE									SON-IN-LAW	1056	https://concepticon.clld.org/parameters/1056
 the Nias 1911 list	300	oemônô	NA	schoondochter	daughter-in-law	menantu perempuan	101	102	-	FALSE									DAUGHTER-IN-LAW	1057	https://concepticon.clld.org/parameters/1057
-the Nias 1911 list	302/303	one fôna	NA	stiefzoon, stiefdochter <unsp.>			102	103	-	FALSE									NA	NA	NA
+the Nias 1911 list	302/303	one fôna	NA	stiefzoon, stiefdochter <unsp.>	stepson [ID_302]; stepdaughter [ID_303]	anak tiri laki-laki [ID_302]; anak tiri perempuan [ID_303]	102	103	-	FALSE									NA	NA	NA
 the Nias 1911 list	304	ama si achi	NA	stiefouders	stepparents	ayah dan ibu tiri	103	104	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Nias 1911 list	304	ina si achi	NA	stiefouders	stepparents	ayah dan ibu tiri	103	104	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Nias 1911 list	305	ono nisooe	NA	aangenomen kind	adopted child	anak pungut ; anak angkat	104	105	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
-the Nias 1911 list	306-309	la'o	NA	zwager <unsp.>			105	106	219	FALSE									NA	NA	NA
-the Nias 1911 list	310/314	la'o	NA	schoonbroer, schoonzuster <unsp.>			106	107	-	FALSE									NA	NA	NA
+the Nias 1911 list	306-309	la'o	NA	zwager <unsp.>	brother-in-law WB [ID_306]; brother-in-law HB [ID_307]; brother-in-law WZH [ID_308]; brother-in-law HZH [ID_309]	ipar laki-laki WB [ID_306]; ipar laki-laki HB [ID_307]; biras laki-laki WZH [ID_308]; biras laki-laki HZH [ID_309]	105	106	219	FALSE									NA	NA	NA
+the Nias 1911 list	310/314	la'o	NA	schoonbroer, schoonzuster <unsp.>	brother-in-law [ID_310]; sister-in-law WBW [ID_314]	ipar laki-laki [ID_310]; biras perempuan WBW [ID_314]	106	107	-	FALSE									NA	NA	NA
 the Nias 1911 list	315	fatalifoeso	20	verwant	related	keluarga	107	108	221	FALSE			fatalifoeso						FAMILY	194	https://concepticon.clld.org/parameters/194
 the Nias 1911 list	315	fa'iwa	20	verwant	related	keluarga	107	108	221	FALSE			fa'iwa						FAMILY	194	https://concepticon.clld.org/parameters/194
 the Nias 1911 list	315	sahato	20	verwant	related	keluarga	107	108	221	FALSE			sahato						FAMILY	194	https://concepticon.clld.org/parameters/194
@@ -318,7 +318,7 @@ the Nias 1911 list	340	lowalangi	24	goede geest	spirit	ruh baik	212	215	-	FALSE	
 the Nias 1911 list	340	mala'ika	24	goede geest	spirit	ruh baik	212	215	-	FALSE			mala'ika						SPIRIT	53	https://concepticon.clld.org/parameters/53
 the Nias 1911 list	341	bechoe	25	kwade geest	evil spirit	ruh jahat	207/213	210	-	FALSE							those are the ghosts of dead people , or spirits which live in high trees and other places ; they cause illness		DEMON	1973	https://concepticon.clld.org/parameters/1973
 the Nias 1911 list	341	bechoe si lô	25	kwade geest	evil spirit	ruh jahat	207/213	210	-	FALSE							those are the ghosts of dead people , or spirits which live in high trees and other places ; they cause illness		DEMON	1973	https://concepticon.clld.org/parameters/1973
-the Nias 1911 list	343/344	noso	26	ziel, geest (v.e. levende, v.e. dode) <unsp.>			214	217	231	FALSE			bechoe	of a dead person					NA	NA	NA
+the Nias 1911 list	343/344	noso	26	ziel, geest (v.e. levende, v.e. dode) <unsp.>	soul, spirit [ID_343]; soul, ghost [ID_344]	jiwa, nyawa, ruh [ID_343]; ruh orang mati [ID_344]	214	217	231	FALSE			bechoe	of a dead person					NA	NA	NA
 the Nias 1911 list	345	lowalangi	27	opperwezen	the supreme being	yang maha kuasa	215	218	-	FALSE							“lowalangi” is the Supreme Being in God. It is the origin of all things , although not without intermediaries		DEITY	3231	https://concepticon.clld.org/parameters/3231
 the Nias 1911 list	347	mangandrô	28	aanbidden	to worship	menyembah	217	219	-	FALSE			mangandrô						WORSHIP	257	https://concepticon.clld.org/parameters/257
 the Nias 1911 list	347	andrô	28	aanbidden	to worship	menyembah	217	219	-	FALSE			andrô						WORSHIP	257	https://concepticon.clld.org/parameters/257
@@ -372,7 +372,7 @@ the Nias 1911 list	401	si so ba mbôrô	NA	getuige	witness	saksi	610	627	-	FAL
 the Nias 1911 list	402	sangoehoekoe	NA	rechter	judge	hakim	611	628	-	FALSE									JUDGE	861	https://concepticon.clld.org/parameters/861
 the Nias 1911 list	403	nihôli	NA	pandeling	credit bondsman	orang tergadai	603	622	254	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Nias 1911 list	404	fame'e fangasi	NA	lijkfeest	funeral ceremony	upacara kematian, pemakaman	245	243	255	FALSE									FUNERAL	3336	https://concepticon.clld.org/parameters/3336
-the Nias 1911 list	407/408	mangowaloe	NA	huwen <unsp.> huwelijk	marry, marriage	menikah, perkawinan	246	244	258	FALSE									MARRIAGE OR WEDDING	3182	https://concepticon.clld.org/parameters/3182
+the Nias 1911 list	407/408	mangowaloe	NA	huwen <unsp.> huwelijk	to marry, to take a wife, marriage [ID_407]; to marry, to take a husband, marriage [ID_408]	kawin/menikah, berbini, perkawinan [ID_407]; kawin/menikah, berlaki, perkawinan [ID_408]	246	244	258	FALSE									MARRIAGE OR WEDDING	3182	https://concepticon.clld.org/parameters/3182
 the Nias 1911 list	410	fanibo donga	NA	scheiden	to divorce	bercerai	247	245	260	FALSE									DIVORCE (SEPARATE)	3672	https://concepticon.clld.org/parameters/3672
 the Nias 1911 list	410	tibo'o	NA	scheiden	to divorce	bercerai	247	245	260	FALSE									DIVORCE (SEPARATE)	3672	https://concepticon.clld.org/parameters/3672
 the Nias 1911 list	412	fawoe'oesa li	NA	trouwbelofte	betrothal	perjanjian	249	247	-	FALSE									AGREEMENT	3644	https://concepticon.clld.org/parameters/3644
@@ -397,7 +397,7 @@ the Nias 1911 list	433	bea	33	tol	top	gasing	-	264	274	FALSE							e.g. import d
 the Nias 1911 list	437	omo	NA	huis	house	rumah	265	265	278	FALSE									HOUSE	1252	https://concepticon.clld.org/parameters/1252
 the Nias 1911 list	438	ose	NA	hut (op het veld enz.)	hut, shelter	pondok	266	266	279	FALSE									HUT	1678	https://concepticon.clld.org/parameters/1678
 the Nias 1911 list	440	mboemboe	NA	nok van het dak	ridge of roof	bubungan	-	267	280	FALSE									RIDGEPOLE	280	https://concepticon.clld.org/parameters/280
-the Nias 1911 list	441/442	sagô (atap)	NA	dakbedekking <unsp.>	roofing	atap	268	268	-	FALSE		add. Malay							ROOF	769	https://concepticon.clld.org/parameters/769
+the Nias 1911 list	441/442	sagô (atap)	NA	dakbedekking <unsp.>	roofing: thatch [ID_441]; roofing: bamboo lath [ID_442]	atap [ID_441]; atap: bilah, pelupuh bambu [ID_442]	268	268	-	FALSE		add. Malay							ROOF	769	https://concepticon.clld.org/parameters/769
 the Nias 1911 list	446	kasô	NA	dakspar	rafter	kasau	-	270	282	FALSE									RAFTER	829	https://concepticon.clld.org/parameters/829
 the Nias 1911 list	449	kaloe	NA	deur	door	daun pintu	270	271	-	FALSE									DOOR	1567	https://concepticon.clld.org/parameters/1567
 the Nias 1911 list	449	bawandroehô	NA	deur	door	daun pintu	270	271	-	FALSE									DOOR	1567	https://concepticon.clld.org/parameters/1567
@@ -475,9 +475,9 @@ the Nias 1911 list	519	kafokafo	NA	doos	box, case	kotak, dos	327	328	-	FALSE				
 the Nias 1911 list	520	kotakota	NA	kist voor kleren	case for cloth	peti pakaian	324	325	-	FALSE									WARDROBE	3106	https://concepticon.clld.org/parameters/3106
 the Nias 1911 list	520	fetifeti	NA	kist voor kleren	case for cloth	peti pakaian	324	325	-	FALSE									WARDROBE	3106	https://concepticon.clld.org/parameters/3106
 the Nias 1911 list	522	bowoa	NA	pot	pot, jar	periuk	325	326	-	FALSE									POT	1462	https://concepticon.clld.org/parameters/1462
-the Nias 1911 list	525-527	rino	39	koken <unsp.>	to cook	memasak	328	329	330	FALSE			rino						COOK (SOMETHING)	1100	https://concepticon.clld.org/parameters/1100
-the Nias 1911 list	525-527	mondriho	39	koken <unsp.>	to cook	memasak	328	329	330	FALSE			mondriho						COOK (SOMETHING)	1100	https://concepticon.clld.org/parameters/1100
-the Nias 1911 list	525-527	mombôi	39	koken <unsp.>	to cook	memasak	328	329	330	FALSE			mombôi						COOK (SOMETHING)	1100	https://concepticon.clld.org/parameters/1100
+the Nias 1911 list	525-527	rino	39	koken <unsp.>	to cook in bamboo container [ID_525]; to cook (in pot) [ID_526]; to steam [ID_527]	melemang [ID_525]; merebus [ID_526]; mengukus [ID_527]	328	329	330	FALSE			rino						COOK (SOMETHING)	1100	https://concepticon.clld.org/parameters/1100
+the Nias 1911 list	525-527	mondriho	39	koken <unsp.>	to cook in bamboo container [ID_525]; to cook (in pot) [ID_526]; to steam [ID_527]	melemang [ID_525]; merebus [ID_526]; mengukus [ID_527]	328	329	330	FALSE			mondriho						COOK (SOMETHING)	1100	https://concepticon.clld.org/parameters/1100
+the Nias 1911 list	525-527	mombôi	39	koken <unsp.>	to cook in bamboo container [ID_525]; to cook (in pot) [ID_526]; to steam [ID_527]	melemang [ID_525]; merebus [ID_526]; mengukus [ID_527]	328	329	330	FALSE			mombôi						COOK (SOMETHING)	1100	https://concepticon.clld.org/parameters/1100
 the Nias 1911 list	528	sala	40	braden	to bake, to grill, to fry	membakar, panggang menggoreng (dengan minyak)	329	330	-	FALSE			sala						BAKE	183	https://concepticon.clld.org/parameters/183
 the Nias 1911 list	528	manala	40	braden	to bake, to grill, to fry	membakar, panggang menggoreng (dengan minyak)	329	330	-	FALSE			manala						BAKE	183	https://concepticon.clld.org/parameters/183
 the Nias 1911 list	528	gore	40	braden	to bake, to grill, to fry	membakar, panggang menggoreng (dengan minyak)	329	330	-	FALSE			gore						BAKE	183	https://concepticon.clld.org/parameters/183
@@ -519,13 +519,13 @@ the Nias 1911 list	563	asio	NA	zout (subst.)	salt	garam	343	345	360	TRUE								
 the Nias 1911 list	565	lembe	NA	sarong	sarong	sarung	415	418	369	FALSE									SARONG	2413	https://concepticon.clld.org/parameters/2413
 the Nias 1911 list	567	saraeŵa	NA	broek	trousers	celana	416	419	371	FALSE									TROUSERS	809	https://concepticon.clld.org/parameters/809
 the Nias 1911 list	567	sareŵa	NA	broek	trousers	celana	416	419	371	FALSE									TROUSERS	809	https://concepticon.clld.org/parameters/809
-the Nias 1911 list	569/570	baroe	NA	baadje <unsp.>			-	420	372	FALSE									NA	NA	NA
-the Nias 1911 list	571/572	saemboe	NA	hoofddoek <unsp.>			-	421	373	FALSE									NA	NA	NA
-the Nias 1911 list	571/572	saemboesaemboe	NA	hoofddoek <unsp.>			-	421	373	FALSE									NA	NA	NA
+the Nias 1911 list	569/570	baroe	NA	baadje <unsp.>	jacket (for women) [ID_569]; jacket (for men) [ID_570]	baju perempuan [ID_569]; baju laki-laki [ID_570]	-	420	372	FALSE									NA	NA	NA
+the Nias 1911 list	571/572	saemboe	NA	hoofddoek <unsp.>	head cloth (for women) [ID_571]; head cloth (for men) [ID_572]	ikat kepala perempuan [ID_571]; ikat kepala laki-laki [ID_572]	-	421	373	FALSE									NA	NA	NA
+the Nias 1911 list	571/572	saemboesaemboe	NA	hoofddoek <unsp.>	head cloth (for women) [ID_571]; head cloth (for men) [ID_572]	ikat kepala perempuan [ID_571]; ikat kepala laki-laki [ID_572]	-	421	373	FALSE									NA	NA	NA
 the Nias 1911 list	573	soechoe	NA	kam	comb	sisir	418	422	374	FALSE									COMB	1475	https://concepticon.clld.org/parameters/1475
 the Nias 1911 list	576	laedoeroe	NA	ring	ring	cincin	419	423	-	FALSE									RING	1374	https://concepticon.clld.org/parameters/1374
-the Nias 1911 list	577/578	bôbô taloe	NA	buikband <unsp.>			421	425	-	FALSE									NA	NA	NA
-the Nias 1911 list	577/578	bôbô daloe	NA	buikband <unsp.>			421	425	-	FALSE									NA	NA	NA
+the Nias 1911 list	577/578	bôbô taloe	NA	buikband <unsp.>	waist belt/band [ID_577]; metal waist band [ID_578]	ikat pinggang [ID_577]; ikat pinggang dari logam [ID_578]	421	425	-	FALSE									NA	NA	NA
+the Nias 1911 list	577/578	bôbô daloe	NA	buikband <unsp.>	waist belt/band [ID_577]; metal waist band [ID_578]	ikat pinggang [ID_577]; ikat pinggang dari logam [ID_578]	421	425	-	FALSE									NA	NA	NA
 the Nias 1911 list	579	tôla gaza	NA	band of ring (arm)	arm ring, bracelet	gelang tangan	420	424	377	FALSE									BRACELET	1754	https://concepticon.clld.org/parameters/1754
 the Nias 1911 list	579	aja mbôlôcha	NA	band of ring (arm)	arm ring, bracelet	gelang tangan	420	424	377	FALSE									BRACELET	1754	https://concepticon.clld.org/parameters/1754
 the Nias 1911 list	580	aja gahe	NA	band of ring (enkel)	anklet	gelang laki	420	424	377	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
@@ -601,10 +601,10 @@ the Nias 1911 list	657	eno'o	NA	waterleiding	irrigation	pengairan	445	447	426	FA
 the Nias 1911 list	657	lala nidanô	NA	waterleiding	irrigation	pengairan	445	447	426	FALSE									IRRIGATE	3078	https://concepticon.clld.org/parameters/3078
 the Nias 1911 list	659	ôli	NA	omheining	fence, hedge	pagar	446	448	427	FALSE									FENCE	1690	https://concepticon.clld.org/parameters/1690
 the Nias 1911 list	660	sinanô	NA	gewas	vegetation	tumbuhan	447	449	-	FALSE									PLANT (VEGETATION)	653	https://concepticon.clld.org/parameters/653
-the Nias 1911 list	662/663	fazaewe	50	zaaien <unsp.>	sow	tabur	448	450	429	FALSE			fazaewe						SOW SEEDS	748	https://concepticon.clld.org/parameters/748
-the Nias 1911 list	662/663	mama aewe	50	zaaien <unsp.>	sow	tabur	448	450	429	FALSE			mama aewe						SOW SEEDS	748	https://concepticon.clld.org/parameters/748
-the Nias 1911 list	662/663	fazawili	50	zaaien <unsp.>	sow	tabur	448	450	429	FALSE			fazawili						SOW SEEDS	748	https://concepticon.clld.org/parameters/748
-the Nias 1911 list	662/663	mamazawili	50	zaaien <unsp.>	sow	tabur	448	450	429	FALSE			mamazawili						SOW SEEDS	748	https://concepticon.clld.org/parameters/748
+the Nias 1911 list	662/663	fazaewe	50	zaaien <unsp.>	to sow (placing the seeds in holes in the ground) [ID_662]; to sow (scattering the seeds about) [ID_663]	menugal benih [ID_662]; menabur benih [ID_663]	448	450	429	FALSE			fazaewe						SOW SEEDS	748	https://concepticon.clld.org/parameters/748
+the Nias 1911 list	662/663	mama aewe	50	zaaien <unsp.>	to sow (placing the seeds in holes in the ground) [ID_662]; to sow (scattering the seeds about) [ID_663]	menugal benih [ID_662]; menabur benih [ID_663]	448	450	429	FALSE			mama aewe						SOW SEEDS	748	https://concepticon.clld.org/parameters/748
+the Nias 1911 list	662/663	fazawili	50	zaaien <unsp.>	to sow (placing the seeds in holes in the ground) [ID_662]; to sow (scattering the seeds about) [ID_663]	menugal benih [ID_662]; menabur benih [ID_663]	448	450	429	FALSE			fazawili						SOW SEEDS	748	https://concepticon.clld.org/parameters/748
+the Nias 1911 list	662/663	mamazawili	50	zaaien <unsp.>	to sow (placing the seeds in holes in the ground) [ID_662]; to sow (scattering the seeds about) [ID_663]	menugal benih [ID_662]; menabur benih [ID_663]	448	450	429	FALSE			mamazawili						SOW SEEDS	748	https://concepticon.clld.org/parameters/748
 the Nias 1911 list	664	tanômô	NA	zaad	seed	benih	449	451	-	TRUE									SEED	714	https://concepticon.clld.org/parameters/714
 the Nias 1911 list	665	ono	51	planten	to plant	menanam	450	452	430	FALSE			famasoea	to plant rice					PLANT (SOMETHING)	1486	https://concepticon.clld.org/parameters/1486
 the Nias 1911 list	668	asoso	NA	rijp	ripe	masak, matang	451	453	433	FALSE									RIPE	178	https://concepticon.clld.org/parameters/178
@@ -664,10 +664,10 @@ the Nias 1911 list	732	lewoeo	NA	bamboe	bamboo	bambu	502	507	470	FALSE									B
 the Nias 1911 list	733	omboeomboe lewoeo	NA	jonge bamboespruit	bamboo shoot, young sprout	rebung	-	508	471	FALSE									BAMBOO SHOOT	2494	https://concepticon.clld.org/parameters/2494
 the Nias 1911 list	734	eoe	NA	boom	tree	pohon	541	549	472	TRUE									TREE	906	https://concepticon.clld.org/parameters/906
 the Nias 1911 list	734	tôla geoe	NA	boom	tree	pohon	541	549	472	TRUE									TREE	906	https://concepticon.clld.org/parameters/906
-the Nias 1911 list	739/740	daha	NA	tak <unsp.>	branch	cabang	542	550	477	FALSE									BRANCH	1531	https://concepticon.clld.org/parameters/1531
+the Nias 1911 list	739/740	daha	NA	tak <unsp.>	branch [ID_739]; twig [ID_740]	dahan, cabang [ID_739]; ranting [ID_740]	542	550	477	FALSE									BRANCH	1531	https://concepticon.clld.org/parameters/1531
 the Nias 1911 list	741	toeho	NA	kernhout	the heart of the tree	hati kayu (pohon)	-	551	478	FALSE									WOOD	1803	https://concepticon.clld.org/parameters/1803
 the Nias 1911 list	742	sowa'a gomboe	NA	hoofdwortel, penwortel	main root, taproot	ibu akar, akar tunggang	543	552	-	FALSE									ROOT	670	https://concepticon.clld.org/parameters/670
-the Nias 1911 list	742-744	ŵa'a	NA	wortel <unsp.>	root	akar	543	552	479	TRUE	root								ROOT	670	https://concepticon.clld.org/parameters/670
+the Nias 1911 list	742-744	ŵa'a	NA	wortel <unsp.>	main root, taproot [ID_742]; side-root [ID_743]; fibrous root [ID_744]	ibu akar, akar tunggang [ID_742]; akar samping [ID_743]; akar serabut [ID_744]	543	552	479	TRUE	root								ROOT	670	https://concepticon.clld.org/parameters/670
 the Nias 1911 list	746	boeloe	NA	blad	leaf	daun	544	553	481	TRUE									LEAF	628	https://concepticon.clld.org/parameters/628
 the Nias 1911 list	748	oeli (geoe)	NA	schors	bark	kulit kayu	545	554	483	TRUE									BARK	1204	https://concepticon.clld.org/parameters/1204
 the Nias 1911 list	750	idanô	NA	sap	sap	air (buah, pohon)	546	555	485	FALSE									SAP	345	https://concepticon.clld.org/parameters/345
@@ -705,7 +705,7 @@ the Nias 1911 list	790	adoelo	NA	ei	egg	telur	354	356	518	TRUE									EGG	744	h
 the Nias 1911 list	794	bawi	NA	tam varken	domesticated pig	babi	356	358	522	FALSE									PIG	1337	https://concepticon.clld.org/parameters/1337
 the Nias 1911 list	797	moedeledele	NA	knorren	to grunt	menggeram	357	359	525	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Nias 1911 list	799	nambi	NA	geit	goat	kambing	-	360	526	FALSE									GOAT	1502	https://concepticon.clld.org/parameters/1502
-the Nias 1911 list	800-802	ôrôbao	NA	buffel <unsp.>			362	364	527	FALSE									NA	NA	NA
+the Nias 1911 list	800-802	ôrôbao	NA	buffel <unsp.>	buffalo (female) [ID_800]; buffalo (male) [ID_801]; buffalo (calf) [ID_802]	kerbau betina [ID_800]; kerbau jantan [ID_801]; anak kerbau [ID_802]	362	364	527	FALSE									NA	NA	NA
 the Nias 1911 list	803	zaŵi	NA	koe	cow	sapi (betina)	360	362	-	FALSE									COW	1007	https://concepticon.clld.org/parameters/1007
 the Nias 1911 list	804	zaŵi si matoea	NA	stier	bull	sapi (jantan)	360	362	-	FALSE									BULL	1008	https://concepticon.clld.org/parameters/1008
 the Nias 1911 list	805	mambehe	NA	bleren	to bleat, to moo	menguak	-	361	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
@@ -936,8 +936,8 @@ the Nias 1911 list	1015	boe'a	NA	betalen	to pay	membayar	651	666	701	FALSE						
 the Nias 1911 list	1015	mamoe'a	NA	betalen	to pay	membayar	651	666	701	FALSE									PAY	718	https://concepticon.clld.org/parameters/718
 the Nias 1911 list	1016	amawa	NA	verkopen	to sell	menjual	652	667	702	FALSE									SELL	1571	https://concepticon.clld.org/parameters/1571
 the Nias 1911 list	1016	mamawa	NA	verkopen	to sell	menjual	652	667	702	FALSE									SELL	1571	https://concepticon.clld.org/parameters/1571
-the Nias 1911 list	1017/1018	wawalô	NA	lenen <unsp.>	borrow	pinjam	653	668	703	FALSE									BORROW	1823	https://concepticon.clld.org/parameters/1823
-the Nias 1911 list	1017/1018	mombalô	NA	lenen <unsp.>	borrow	pinjam	653	668	703	FALSE									BORROW	1823	https://concepticon.clld.org/parameters/1823
+the Nias 1911 list	1017/1018	wawalô	NA	lenen <unsp.>	to borrow [ID_1017]; to lend to [ID_1018]	meminjam [ID_1017]; meminjamkan [ID_1018]	653	668	703	FALSE									BORROW	1823	https://concepticon.clld.org/parameters/1823
+the Nias 1911 list	1017/1018	mombalô	NA	lenen <unsp.>	to borrow [ID_1017]; to lend to [ID_1018]	meminjam [ID_1017]; meminjamkan [ID_1018]	653	668	703	FALSE									BORROW	1823	https://concepticon.clld.org/parameters/1823
 the Nias 1911 list	1019	falali	NA	ruilen	to exchange	menukar	654	669	704	FALSE									EXCHANGE	2509	https://concepticon.clld.org/parameters/2509
 the Nias 1911 list	1019	mamalali	NA	ruilen	to exchange	menukar	654	669	704	FALSE									EXCHANGE	2509	https://concepticon.clld.org/parameters/2509
 the Nias 1911 list	1020	andrô	NA	bieden	to offer	mempersembahkan	655	670	-	FALSE									DONATE	196	https://concepticon.clld.org/parameters/196
@@ -961,7 +961,7 @@ the Nias 1911 list	1028	1 laoeroe	73	maten en gewichten (inhouds)	measures and w
 the Nias 1911 list	1028	1 toemba	73	maten en gewichten (inhouds)	measures and weights (volume and capacity)	ukuran dan berat (isi dan kapasitas)	660	674	-	FALSE			1 toemba	1/4 koelak			there are special weights for gold		CONTENT	3967	https://concepticon.clld.org/parameters/3967
 the Nias 1911 list	1028	1 kata	73	maten en gewichten (inhouds)	measures and weights (volume and capacity)	ukuran dan berat (isi dan kapasitas)	660	674	-	FALSE			1 kata	1/4 toemba			there are special weights for gold		CONTENT	3967	https://concepticon.clld.org/parameters/3967
 the Nias 1911 list	1028	1 zoe	73	maten en gewichten (inhouds)	measures and weights (volume and capacity)	ukuran dan berat (isi dan kapasitas)	660	674	-	FALSE			1 zoe	10 koelak			there are special weights for gold		CONTENT	3967	https://concepticon.clld.org/parameters/3967
-the Nias 1911 list	1029/1030	owo	74	schip <unsp.>	ship	kapal	661	675	-	FALSE		originally: <unps.>, which should be <unsp.> (typo)					other names are from Malay		SHIP	740	https://concepticon.clld.org/parameters/740
+the Nias 1911 list	1029/1030	owo	74	schip <unsp.>	ship (trading vessel) [ID_1029]; ship (warship) [ID_1030]	kapal dagang [ID_1029]; kapal perang [ID_1030]	661	675	-	FALSE		originally: <unps.>, which should be <unsp.> (typo)					other names are from Malay		SHIP	740	https://concepticon.clld.org/parameters/740
 the Nias 1911 list	1031	kôfa	NA	stoomboot	steamboat	kapal uap	662	676	-	FALSE									BOAT	1844	https://concepticon.clld.org/parameters/1844
 the Nias 1911 list	1032	sikosi	NA	sloep	rowboat	kapal (sampan)	663	677	-	FALSE									BOAT	1844	https://concepticon.clld.org/parameters/1844
 the Nias 1911 list	1033	farakoe	75	prauw	proa, canoe	perahu	664	678	707	FALSE							this is a cargo <?>		CANOE	1970	https://concepticon.clld.org/parameters/1970
@@ -970,8 +970,8 @@ the Nias 1911 list	1037	lojo	NA	zeilen	to sail	berlayar	666	680	711	FALSE							
 the Nias 1911 list	1038	amoeri	NA	roer	rudder, helm	kemudi	667	681	712	FALSE									RUDDER	108	https://concepticon.clld.org/parameters/108
 the Nias 1911 list	1040	aloecha	76	(roei) riem, pagaai	oar, paddle	pengayuh	668	682	714	FALSE			aloecha	small					OAR OR PADDLE	3318	https://concepticon.clld.org/parameters/3318
 the Nias 1911 list	1040	sola	76	(roei) riem, pagaai	oar, paddle	pengayuh	668	682	714	FALSE			sola	large					OAR OR PADDLE	3318	https://concepticon.clld.org/parameters/3318
-the Nias 1911 list	1041/1042	molojo	NA	schepper, scheppen <unsp.>			670	684	-	FALSE									NA	NA	NA
-the Nias 1911 list	1041/1042	solojo	NA	schepper, scheppen <unsp.>			670	684	-	FALSE									NA	NA	NA
+the Nias 1911 list	1041/1042	molojo	NA	schepper, scheppen <unsp.>	paddle [ID_1041]; to paddle [ID_1042]	pengayuh [ID_1041]; mengayuh [ID_1042]	670	684	-	FALSE									NA	NA	NA
+the Nias 1911 list	1041/1042	solojo	NA	schepper, scheppen <unsp.>	paddle [ID_1041]; to paddle [ID_1042]	pengayuh [ID_1041]; mengayuh [ID_1042]	670	684	-	FALSE									NA	NA	NA
 the Nias 1911 list	1043	sola	77	roeien	to row, to pull	mengayuh	669	683	715	TRUE	pull		sola						ROW	1849	https://concepticon.clld.org/parameters/1849
 the Nias 1911 list	1043	manola	77	roeien	to row, to pull	mengayuh	669	683	715	TRUE	pull		manola						ROW	1849	https://concepticon.clld.org/parameters/1849
 the Nias 1911 list	1043	alachai	77	roeien	to row, to pull	mengayuh	669	683	715	TRUE	pull		alachai						ROW	1849	https://concepticon.clld.org/parameters/1849
@@ -1002,9 +1002,9 @@ the Nias 1911 list	1070	ise'ise	NA	dun	thin	tipis	687	702	731	TRUE									FINE 
 the Nias 1911 list	1070	wa'iseise	NA	dun	thin	tipis	687	702	731	TRUE									FINE OR THIN	2157	https://concepticon.clld.org/parameters/2157
 the Nias 1911 list	1071	afoeo	NA	mager	thin, meagre, skinny	kurus	689	706	732	TRUE	thin								THIN (SLIM)	1400	https://concepticon.clld.org/parameters/1400
 the Nias 1911 list	1071	angao	NA	mager	thin, meagre, skinny	kurus	689	706	732	TRUE	thin								THIN (SLIM)	1400	https://concepticon.clld.org/parameters/1400
-the Nias 1911 list	1072-1074	atabô	79	ver <unsp.>	far	jauh	690	707	-	FALSE			atabô	of a small child					FAR	1406	https://concepticon.clld.org/parameters/1406
-the Nias 1911 list	1072-1074	esolo	79	ver <unsp.>	far	jauh	690	707	-	FALSE			esolo	of a small child					FAR	1406	https://concepticon.clld.org/parameters/1406
-the Nias 1911 list	1072-1074	owa'ewa'e	79	ver <unsp.>	far	jauh	690	707	-	FALSE			owa'ewa'e	of a small child					FAR	1406	https://concepticon.clld.org/parameters/1406
+the Nias 1911 list	1072-1074	atabô	79	ver <unsp.>	fat (adj.) [ID_1072]; fat, grease (noun) [ID_1073]; greasy [ID_1074]	gemuk [ID_1072]; lemak [ID_1073]; berminyak, berlemak [ID_1074]	690	707	-	FALSE			atabô	of a small child					FAR	1406	https://concepticon.clld.org/parameters/1406
+the Nias 1911 list	1072-1074	esolo	79	ver <unsp.>	fat (adj.) [ID_1072]; fat, grease (noun) [ID_1073]; greasy [ID_1074]	gemuk [ID_1072]; lemak [ID_1073]; berminyak, berlemak [ID_1074]	690	707	-	FALSE			esolo	of a small child					FAR	1406	https://concepticon.clld.org/parameters/1406
+the Nias 1911 list	1072-1074	owa'ewa'e	79	ver <unsp.>	fat (adj.) [ID_1072]; fat, grease (noun) [ID_1073]; greasy [ID_1074]	gemuk [ID_1072]; lemak [ID_1073]; berminyak, berlemak [ID_1074]	690	707	-	FALSE			owa'ewa'e	of a small child					FAR	1406	https://concepticon.clld.org/parameters/1406
 the Nias 1911 list	1075	angao	NA	slank van middel	slim	langsing	691	708	735	FALSE									THIN (SLIM)	1400	https://concepticon.clld.org/parameters/1400
 the Nias 1911 list	1076	si boto aoeri	NA	dwerg, dwergachtig	dwarf	orang katai	692	709	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Nias 1911 list	1076	dawa sichô	NA	dwerg, dwergachtig	dwarf	orang katai	692	709	-	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
@@ -1013,8 +1013,8 @@ the Nias 1911 list	1079	môimôi	NA	tam, mak	tame	jinak	-	703	738	FALSE							
 the Nias 1911 list	1080/1081	ada'oeda'oe	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Nias 1911 list	1080/1081	alawôlawô	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA							NA	NA	NA
 the Nias 1911 list	1082	aila	NA	verlegen, beschaamd	shy, ashamed	malu	-	705	740	FALSE									SHY OR ASHAMED	3805	https://concepticon.clld.org/parameters/3805
-the Nias 1911 list	1083/1084	abacha	NA	diep <unsp.>	deep	dalam	693	710	741	FALSE									DEEP	1593	https://concepticon.clld.org/parameters/1593
-the Nias 1911 list	1085/1086	lô abacha	NA	ondiep <unspec.>	shallow	dangkal	694	711	742	FALSE									SHALLOW	193	https://concepticon.clld.org/parameters/193
+the Nias 1911 list	1083/1084	abacha	NA	diep <unsp.>	deep (river) [ID_1083]; deep (dish) [ID_1084]	dalam (sungai) [ID_1083]; dalam (piring) [ID_1084]	693	710	741	FALSE									DEEP	1593	https://concepticon.clld.org/parameters/1593
+the Nias 1911 list	1085/1086	lô abacha	NA	ondiep <unspec.>	shallow (river) [ID_1085]; shallow (dish) [ID_1086]	dangkal (sungai) [ID_1085]; ceper, leper [ID_1086]	694	711	742	FALSE									SHALLOW	193	https://concepticon.clld.org/parameters/193
 the Nias 1911 list	1087	alaŵa	NA	hoog	high	tinggi	695	712	743	FALSE									HIGH OR TALL	2790	https://concepticon.clld.org/parameters/2790
 the Nias 1911 list	1088	lô alaŵa	NA	laag	low	rendah	696	713	744	FALSE									LOW	721	https://concepticon.clld.org/parameters/721
 the Nias 1911 list	1088	atooe	NA	laag	low	rendah	696	713	744	FALSE									LOW	721	https://concepticon.clld.org/parameters/721
@@ -1025,9 +1025,9 @@ the Nias 1911 list	1097	manaere	NA	schuin	slanting, sloping	serong, miring	699	7
 the Nias 1911 list	1098	ataro	NA	scherp	sharp	tajam	700	718	754	TRUE									SHARP	1396	https://concepticon.clld.org/parameters/1396
 the Nias 1911 list	1101	abe'e	NA	hard	hard	keras	701	719	757	FALSE									HARD	1884	https://concepticon.clld.org/parameters/1884
 the Nias 1911 list	1102	omoejoe	NA	week	weak	lembek, lemah	702	720	-	FALSE									WEAK	1601	https://concepticon.clld.org/parameters/1601
-the Nias 1911 list	1104/1105	aoechoe	NA	warm <unsp.>	hot	panas	703	721	759	FALSE									HOT OR WARM	2272	https://concepticon.clld.org/parameters/2272
-the Nias 1911 list	1106/1107	okafoe	NA	koud <unsp.>	cold	dingin	704	722	760	FALSE									COLD	1287	https://concepticon.clld.org/parameters/1287
-the Nias 1911 list	1109/1110	awoelo	NA	rond <unsp.>	round	bulat	705	723	762	FALSE									ROUND	1395	https://concepticon.clld.org/parameters/1395
+the Nias 1911 list	1104/1105	aoechoe	NA	warm <unsp.>	warm (persons) [ID_1104]; warm (things) [ID_1105]	hangat [ID_1104]; hangat, panas [ID_1105]	703	721	759	FALSE									HOT OR WARM	2272	https://concepticon.clld.org/parameters/2272
+the Nias 1911 list	1106/1107	okafoe	NA	koud <unsp.>	cold (persons) [ID_1106]; cold (things) [ID_1107]	dingin [ID_1106]; dingin, sejuk [ID_1107]	704	722	760	FALSE									COLD	1287	https://concepticon.clld.org/parameters/1287
+the Nias 1911 list	1109/1110	awoelo	NA	rond <unsp.>	round, circular (as a stick) [ID_1109]; round, circular (as a dish) [ID_1110]	bundar (seperti tongkat) [ID_1109]; bundar (seperti piring) [ID_1110]	705	723	762	FALSE									ROUND	1395	https://concepticon.clld.org/parameters/1395
 the Nias 1911 list	1112	ôfa sagi	NA	vierkant	square	persegi	706	724	763	FALSE									SQUARE	850	https://concepticon.clld.org/parameters/850
 the Nias 1911 list	1113	ebolo	NA	breed	broad	luas, lebar	707	725	764	FALSE									BROAD	2531	https://concepticon.clld.org/parameters/2531
 the Nias 1911 list	1115	ise'ise	80	nauw	narrow	sempit	709	726	766	TRUE				of clothes					NARROW	1267	https://concepticon.clld.org/parameters/1267
@@ -1046,13 +1046,13 @@ the Nias 1911 list	1127	abazô	81	nat	wet	basah	714	733	778	TRUE			abazô					
 the Nias 1911 list	1127	omboenô	81	nat	wet	basah	714	733	778	TRUE			omboenô						WET	1726	https://concepticon.clld.org/parameters/1726
 the Nias 1911 list	1127	hamboenô	81	nat	wet	basah	714	733	778	TRUE			hamboenô						WET	1726	https://concepticon.clld.org/parameters/1726
 the Nias 1911 list	1130	sôchi	NA	goed	good	baik, bagus	715	734	781	TRUE									GOOD	1035	https://concepticon.clld.org/parameters/1035
-the Nias 1911 list	1132-1134	sôchi	NA	mooi <unsp.>	nice	bagus	716	735	783	FALSE									GOOD	1035	https://concepticon.clld.org/parameters/1035
+the Nias 1911 list	1132-1134	sôchi	NA	mooi <unsp.>	beautiful (persons) [ID_1132]; beautiful (male) [ID_1133]; beautiful (fem.) [ID_1134]	elok [ID_1132]; tampan [ID_1133]; cantik [ID_1134]	716	735	783	FALSE									GOOD	1035	https://concepticon.clld.org/parameters/1035
 the Nias 1911 list	1135	sôchi	NA	mooi (van zaak)	beautiful (things)	indah, bagus	716	735	783	FALSE									GOOD	1035	https://concepticon.clld.org/parameters/1035
 the Nias 1911 list	1135	moadoe	NA	mooi (van zaak)	beautiful (things)	indah, bagus	716	735	783	FALSE									GOOD	1035	https://concepticon.clld.org/parameters/1035
-the Nias 1911 list	1136-1139	lô sôchi	NA	lelijk <unsp.>			717	736	784	FALSE									NA	NA	NA
+the Nias 1911 list	1136-1139	lô sôchi	NA	lelijk <unsp.>	ugly (persons) [ID_1136]; ugly (male) [ID_1137]; ugly (female) [ID_1138]; ugly (things) [ID_1139]	buruk, jelek [ID_1136]; buruk, jelek [ID_1137]; buruk, jelek [ID_1138]; buruk, jelek [ID_1139]	717	736	784	FALSE									NA	NA	NA
 the Nias 1911 list	1142	lô ôzi	NA	leeg	empty	kosong	719	737	787	FALSE									EMPTY	1624	https://concepticon.clld.org/parameters/1624
-the Nias 1911 list	1148/1149	aefa	82	los <unsp.>	loose	longgar	724	741	792	FALSE			aefa	free					LOOSE	2506	https://concepticon.clld.org/parameters/2506
-the Nias 1911 list	1148/1149	aboecho	82	los <unsp.>	loose	longgar	724	741	792	FALSE			aboecho	not tight					LOOSE	2506	https://concepticon.clld.org/parameters/2506
+the Nias 1911 list	1148/1149	aefa	82	los <unsp.>	loose [ID_1148]; loosely fitting [ID_1149]	lepas [ID_1148]; longgar, kendur [ID_1149]	724	741	792	FALSE			aefa	free					LOOSE	2506	https://concepticon.clld.org/parameters/2506
+the Nias 1911 list	1148/1149	aboecho	82	los <unsp.>	loose [ID_1148]; loosely fitting [ID_1149]	lepas [ID_1148]; longgar, kendur [ID_1149]	724	741	792	FALSE			aboecho	not tight					LOOSE	2506	https://concepticon.clld.org/parameters/2506
 the Nias 1911 list	1150	atoea	NA	oud	old	tua	725	742	793	TRUE									OLD	1229	https://concepticon.clld.org/parameters/1229
 the Nias 1911 list	1152	awoejoe	NA	jong	young	muda	726	743	795	FALSE									YOUNG	1207	https://concepticon.clld.org/parameters/1207
 the Nias 1911 list	1153	bohooe	NA	nieuw	new	baru	727	744	796	TRUE									NEW	1231	https://concepticon.clld.org/parameters/1231
@@ -1155,7 +1155,7 @@ the Nias 1911 list	1233	sowo	NA	slurpen	to slurp	menghirup	-	780	862	FALSE						
 the Nias 1911 list	1233	manowo	NA	slurpen	to slurp	menghirup	-	780	862	FALSE									CONSUME (DRINK OR EAT)	2787	https://concepticon.clld.org/parameters/2787
 the Nias 1911 list	1234	singongô	93	snuiten	to blow the nose	membuang ingus	-	781	-	FALSE							prefix		BLOW (WITH NOSE)	2679	https://concepticon.clld.org/parameters/2679
 the Nias 1911 list	1234	maningogô	93	snuiten	to blow the nose	membuang ingus	-	781	-	FALSE							prefix		BLOW (WITH NOSE)	2679	https://concepticon.clld.org/parameters/2679
-the Nias 1911 list	1236/1237	fa'ago bawa	NA	kussen, snuiven <unsp.>			-	782	-	FALSE									NA	NA	NA
+the Nias 1911 list	1236/1237	fa'ago bawa	NA	kussen, snuiven <unsp.>	to kiss [ID_1236]; to sniff [ID_1237]	mengecup [ID_1236]; mengendus [ID_1237]	-	782	-	FALSE									NA	NA	NA
 the Nias 1911 list	1238	omasi'ô	NA	liefhebben (iemd.)	to love	mencintai, mengasihi	158	163	865	FALSE									LOVE	923	https://concepticon.clld.org/parameters/923
 the Nias 1911 list	1238	mangomasi'ô	NA	liefhebben (iemd.)	to love	mencintai, mengasihi	158	163	865	FALSE									LOVE	923	https://concepticon.clld.org/parameters/923
 the Nias 1911 list	1239	fatioe dôdô	NA	haten	to hate	benci	159	164	-	FALSE									HATE	1607	https://concepticon.clld.org/parameters/1607
@@ -1176,18 +1176,18 @@ the Nias 1911 list	1251	babaja	96	raken	to hit, to touch	mengenai, menyentuh	763
 the Nias 1911 list	1251	mombambaja	96	raken	to hit, to touch	mengenai, menyentuh	763	787	874	TRUE	hit		mombambaja						HIT	1433	https://concepticon.clld.org/parameters/1433
 the Nias 1911 list	1251	baja	96	raken	to hit, to touch	mengenai, menyentuh	763	787	874	TRUE	hit		baja						HIT	1433	https://concepticon.clld.org/parameters/1433
 the Nias 1911 list	1251	mombaja	96	raken	to hit, to touch	mengenai, menyentuh	763	787	874	TRUE	hit		mombaja						HIT	1433	https://concepticon.clld.org/parameters/1433
-the Nias 1911 list	1253-1255	fato	NA	breken <unsp.>			764	788	876	FALSE									NA	NA	NA
-the Nias 1911 list	1253-1255	mamato	NA	breken <unsp.>			764	788	876	FALSE									NA	NA	NA
+the Nias 1911 list	1253-1255	fato	NA	breken <unsp.>	to break (a stick) [ID_1253]; to break (a rope) [ID_1254]; to shatter [ID_1255]	mematahkan (tongkat) [ID_1253]; memutuskan (tali) [ID_1254]; memecahkan [ID_1255]	764	788	876	FALSE									NA	NA	NA
+the Nias 1911 list	1253-1255	mamato	NA	breken <unsp.>	to break (a stick) [ID_1253]; to break (a rope) [ID_1254]; to shatter [ID_1255]	mematahkan (tongkat) [ID_1253]; memutuskan (tali) [ID_1254]; memecahkan [ID_1255]	764	788	876	FALSE									NA	NA	NA
 the Nias 1911 list	1259	ohete	97	knijpen, persen	to pinch, to squeeze	menjepit, menekan	-	789	878	TRUE	squeeze		ohete						SQUEEZE	1414	https://concepticon.clld.org/parameters/1414
 the Nias 1911 list	1259	mogete	97	knijpen, persen	to pinch, to squeeze	menjepit, menekan	-	789	878	TRUE	squeeze		mogete						SQUEEZE	1414	https://concepticon.clld.org/parameters/1414
 the Nias 1911 list	1259	fachete	97	knijpen, persen	to pinch, to squeeze	menjepit, menekan	-	789	878	TRUE	squeeze		fachete						SQUEEZE	1414	https://concepticon.clld.org/parameters/1414
-the Nias 1911 list	1260/1261	bôrôgô	98	beginnen <unsp.>	to start	mulai	765	790	879	FALSE			bôrôgô						START	3449	https://concepticon.clld.org/parameters/3449
-the Nias 1911 list	1260/1261	bôrôtaigô	98	beginnen <unsp.>	to start	mulai	765	790	879	FALSE			bôrôtaigô						START	3449	https://concepticon.clld.org/parameters/3449
-the Nias 1911 list	1260/1261	mamôtaigò	98	beginnen <unsp.>	to start	mulai	765	790	879	FALSE			mamôtaigò						START	3449	https://concepticon.clld.org/parameters/3449
-the Nias 1911 list	1262/1263	bato	NA	eindigen <unsp.>	to end	berakhir	766	791	880	FALSE									CEASE OR FINISH	2115	https://concepticon.clld.org/parameters/2115
-the Nias 1911 list	1262/1263	mambato	NA	eindigen <unsp.>	to end	berakhir	766	791	880	FALSE									CEASE OR FINISH	2115	https://concepticon.clld.org/parameters/2115
-the Nias 1911 list	1262/1263	bôhôi	NA	eindigen <unsp.>	to end	berakhir	766	791	880	FALSE									CEASE OR FINISH	2115	https://concepticon.clld.org/parameters/2115
-the Nias 1911 list	1262/1263	mambôhôi	NA	eindigen <unsp.>	to end	berakhir	766	791	880	FALSE									CEASE OR FINISH	2115	https://concepticon.clld.org/parameters/2115
+the Nias 1911 list	1260/1261	bôrôgô	98	beginnen <unsp.>	to begin (tr.) [ID_1260]; to begin (intr.) [ID_1261]	mulai (tr.) [ID_1260]; mulai (intr.) [ID_1261]	765	790	879	FALSE			bôrôgô						START	3449	https://concepticon.clld.org/parameters/3449
+the Nias 1911 list	1260/1261	bôrôtaigô	98	beginnen <unsp.>	to begin (tr.) [ID_1260]; to begin (intr.) [ID_1261]	mulai (tr.) [ID_1260]; mulai (intr.) [ID_1261]	765	790	879	FALSE			bôrôtaigô						START	3449	https://concepticon.clld.org/parameters/3449
+the Nias 1911 list	1260/1261	mamôtaigò	98	beginnen <unsp.>	to begin (tr.) [ID_1260]; to begin (intr.) [ID_1261]	mulai (tr.) [ID_1260]; mulai (intr.) [ID_1261]	765	790	879	FALSE			mamôtaigò						START	3449	https://concepticon.clld.org/parameters/3449
+the Nias 1911 list	1262/1263	bato	NA	eindigen <unsp.>	to finish (tr.) [ID_1262]; to finish (intr.) [ID_1263]	menyudahi (tr.) [ID_1262]; berhenti, selesai (intr.) [ID_1263]	766	791	880	FALSE									CEASE OR FINISH	2115	https://concepticon.clld.org/parameters/2115
+the Nias 1911 list	1262/1263	mambato	NA	eindigen <unsp.>	to finish (tr.) [ID_1262]; to finish (intr.) [ID_1263]	menyudahi (tr.) [ID_1262]; berhenti, selesai (intr.) [ID_1263]	766	791	880	FALSE									CEASE OR FINISH	2115	https://concepticon.clld.org/parameters/2115
+the Nias 1911 list	1262/1263	bôhôi	NA	eindigen <unsp.>	to finish (tr.) [ID_1262]; to finish (intr.) [ID_1263]	menyudahi (tr.) [ID_1262]; berhenti, selesai (intr.) [ID_1263]	766	791	880	FALSE									CEASE OR FINISH	2115	https://concepticon.clld.org/parameters/2115
+the Nias 1911 list	1262/1263	mambôhôi	NA	eindigen <unsp.>	to finish (tr.) [ID_1262]; to finish (intr.) [ID_1263]	menyudahi (tr.) [ID_1262]; berhenti, selesai (intr.) [ID_1263]	766	791	880	FALSE									CEASE OR FINISH	2115	https://concepticon.clld.org/parameters/2115
 the Nias 1911 list	1264	bôbô	NA	binden (op allerlei wijzen)	to bind, to tie	mengikat	767	792	881	TRUE	tie								TIE	1917	https://concepticon.clld.org/parameters/1917
 the Nias 1911 list	1264	mamôbô	NA	binden (op allerlei wijzen)	to bind, to tie	mengikat	767	792	881	TRUE	tie								TIE	1917	https://concepticon.clld.org/parameters/1917
 the Nias 1911 list	1265	bini'ô	NA	verbergen (iets)	to hide (something to hide)	menyembunyikan (sesuatu)	768	793	882	FALSE									HIDE (CONCEAL)	602	https://concepticon.clld.org/parameters/602
@@ -1257,11 +1257,11 @@ the Nias 1911 list	1326	matonga	NA	een half	a half	setengah	899	910	935	FALSE			
 the Nias 1911 list	1327	samboea ni'o'ôfa	NA	een kwart	a quarter	seperempat	900	911	936	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
 the Nias 1911 list	1328	samoeza	NA	eenmaal	once	sekali	901	912	937	FALSE									ONE TIME	374	https://concepticon.clld.org/parameters/374
 the Nias 1911 list	1329	mendroea	NA	tweemaal	twice	dua kali	902	913	938	FALSE									TWICE	1546	https://concepticon.clld.org/parameters/1546
-the Nias 1911 list	1330/1331	si ofôna	NA	de eerste <unsp.>	the first	pertama	903	914	939	FALSE									FIRST	728	https://concepticon.clld.org/parameters/728
-the Nias 1911 list	1330/1331	si fôfôna	NA	de eerste <unsp.>	the first	pertama	903	914	939	FALSE									FIRST	728	https://concepticon.clld.org/parameters/728
-the Nias 1911 list	1332/1333	si doea	NA	de tweede <unsp.>	the second	kedua	904	915	940	FALSE									SECOND	1384	https://concepticon.clld.org/parameters/1384
-the Nias 1911 list	1332/1333	fanete zi fôfôna	NA	de tweede <unsp.>	the second	kedua	904	915	940	FALSE									SECOND	1384	https://concepticon.clld.org/parameters/1384
-the Nias 1911 list	1336/1337	safoeria	NA	de laatste <unsp.>	the last	yang terakhir	905	916	942	FALSE									LAST (FINAL)	1529	https://concepticon.clld.org/parameters/1529
+the Nias 1911 list	1330/1331	si ofôna	NA	de eerste <unsp.>	first (in space) [ID_1330]; first (in time) [ID_1331]	pertama [ID_1330]; pertama kali [ID_1331]	903	914	939	FALSE									FIRST	728	https://concepticon.clld.org/parameters/728
+the Nias 1911 list	1330/1331	si fôfôna	NA	de eerste <unsp.>	first (in space) [ID_1330]; first (in time) [ID_1331]	pertama [ID_1330]; pertama kali [ID_1331]	903	914	939	FALSE									FIRST	728	https://concepticon.clld.org/parameters/728
+the Nias 1911 list	1332/1333	si doea	NA	de tweede <unsp.>	second (in space) [ID_1332]; second (in time) [ID_1333]	kedua [ID_1332]; kedua kali [ID_1333]	904	915	940	FALSE									SECOND	1384	https://concepticon.clld.org/parameters/1384
+the Nias 1911 list	1332/1333	fanete zi fôfôna	NA	de tweede <unsp.>	second (in space) [ID_1332]; second (in time) [ID_1333]	kedua [ID_1332]; kedua kali [ID_1333]	904	915	940	FALSE									SECOND	1384	https://concepticon.clld.org/parameters/1384
+the Nias 1911 list	1336/1337	safoeria	NA	de laatste <unsp.>	the last (in space) [ID_1336]; the last (in time) [ID_1337]	terakhir [ID_1336]; terakhir kali [ID_1337]	905	916	942	FALSE									LAST (FINAL)	1529	https://concepticon.clld.org/parameters/1529
 the Nias 1911 list	1338	he wa'oe	NA	hoeveel	how much, how many	berapa	825	842	943	FALSE									HOW MANY	822	https://concepticon.clld.org/parameters/822
 the Nias 1911 list	1338	ere na	NA	hoeveel	how much, how many	berapa	825	842	943	FALSE									HOW MANY	822	https://concepticon.clld.org/parameters/822
 the Nias 1911 list	1339	oja	104	veel	many, much	banyak	826	843	944	TRUE	many								MANY	1198	https://concepticon.clld.org/parameters/1198
@@ -1269,9 +1269,9 @@ the Nias 1911 list	1339	ato	104	veel	many, much	banyak	826	843	944	TRUE	many		at
 the Nias 1911 list	1340	ma'ifoe	NA	weinig	few, a little	sedikit	827	844	945	TRUE	few								A LITTLE	2924	https://concepticon.clld.org/parameters/2924
 the Nias 1911 list	1340	lo oja'oja	NA	weinig	few, a little	sedikit	827	844	945	TRUE	few								A LITTLE	2924	https://concepticon.clld.org/parameters/2924
 the Nias 1911 list	1341	jaŵa	NA	op	finished	habis	823	840	946	FALSE									NA	NA	https://concepticon.clld.org/parameters/NA
-the Nias 1911 list	1347/1348	tôra	105	meer, meest <unsp.>			828	845	-	FALSE			tôra						NA	NA	NA
-the Nias 1911 list	1347/1348	aja moroi tôra	105	meer, meest <unsp.>			828	845	-	FALSE			aja moroi tôra						NA	NA	NA
-the Nias 1911 list	1347/1348	oja sibai	105	meer, meest <unsp.>			828	845	-	FALSE			oja sibai				very many/much		NA	NA	NA
+the Nias 1911 list	1347/1348	tôra	105	meer, meest <unsp.>	more [ID_1347]; most [ID_1348]	lebih [ID_1347]; paling [ID_1348]	828	845	-	FALSE			tôra						NA	NA	NA
+the Nias 1911 list	1347/1348	aja moroi tôra	105	meer, meest <unsp.>	more [ID_1347]; most [ID_1348]	lebih [ID_1347]; paling [ID_1348]	828	845	-	FALSE			aja moroi tôra						NA	NA	NA
+the Nias 1911 list	1347/1348	oja sibai	105	meer, meest <unsp.>	more [ID_1347]; most [ID_1348]	lebih [ID_1347]; paling [ID_1348]	828	845	-	FALSE			oja sibai				very many/much		NA	NA	NA
 the Nias 1911 list	1349	ambô	NA	minder	less	kurang	829	846	953	FALSE									FEW	1242	https://concepticon.clld.org/parameters/1242
 the Nias 1911 list	1350	fefoe	NA	alle, alles	all	semua	830	847	954	TRUE									ALL	98	https://concepticon.clld.org/parameters/98
 the Nias 1911 list	1351	jaŵa	NA	geheel	whole	sama sekali	-	-	955	FALSE									WHOLE	2277	https://concepticon.clld.org/parameters/2277
@@ -1292,13 +1292,13 @@ the Nias 1911 list	1365	ja'ita	107	wij (met insluiting der toegesproken persoon)
 the Nias 1911 list	1365	ita	107	wij (met insluiting der toegesproken persoon)	we (inclusive)	kita (kata ganti orang ke II jamak)	840	856	964	TRUE	we (incl.)		ita						WE (INCLUSIVE)	1131	https://concepticon.clld.org/parameters/1131
 the Nias 1911 list	1366	ja'aga	NA	wij (met uitsluiting der toegesproken persoon)	we (exclusive)	kami (kata ganti orang ke II jamak)	841	857	965	TRUE	we (excl.)								WE (EXCLUSIVE)	1130	https://concepticon.clld.org/parameters/1130
 the Nias 1911 list	1366	ndra'aga	NA	wij (met uitsluiting der toegesproken persoon)	we (exclusive)	kami (kata ganti orang ke II jamak)	841	857	965	TRUE	we (excl.)								WE (EXCLUSIVE)	1130	https://concepticon.clld.org/parameters/1130
-the Nias 1911 list	1364/1367/1368	ja'ira	NA	zij <unsp.>	they	mereka	845	860	-	FALSE									THEY	817	https://concepticon.clld.org/parameters/817
+the Nias 1911 list	1364/1367/1368	ja'ira	NA	zij <unsp.>	she [ID_1364]; they (female) [ID_1367]; they (male) [ID_1368]	ia, kata ganti orang ke III tunggal (perempuan) [ID_1364]; mereka, kata ganti orang ke III jamak (perempuan) [ID_1367]; mereka, kata ganti orang ke III jamak (laki-laki) [ID_1368]	845	860	-	FALSE									THEY	817	https://concepticon.clld.org/parameters/817
 the Nias 1911 list	1369	chôgoe	NA	mijn (enk.)	my (sing.)	kata ganti empunya orang ke I tunggal	846	861	968	FALSE									MY	2090	https://concepticon.clld.org/parameters/2090
 the Nias 1911 list	1370	chôda	108	mijn (meerv.)	my (pl.)	kata ganti empunya orang ke I jamak	846	861	-	FALSE							unusual		MY	2090	https://concepticon.clld.org/parameters/2090
 the Nias 1911 list	1373	chôoe	NA	uw (enk.)	your (sing.)	kata ganti empunya orang ke II tunggal	847	862	970	FALSE									YOUR (SINGULAR)	732	https://concepticon.clld.org/parameters/732
 the Nias 1911 list	1373	chômô	NA	uw (enk.)	your (sing.)	kata ganti empunya orang ke II tunggal	847	862	970	FALSE									YOUR (SINGULAR)	732	https://concepticon.clld.org/parameters/732
 the Nias 1911 list	1374	chômi	NA	uw (meerv.)	your (pl.)	kata ganti empunya orang ke II jamak	847	862	970	FALSE									YOUR (PLURAL)	2274	https://concepticon.clld.org/parameters/2274
-the Nias 1911 list	1375/1376	chôra	NA	hun <unsp.>	their	kata ganti empunya orang ke III jamak	848	863	971	FALSE									THEIR	2400	https://concepticon.clld.org/parameters/2400
+the Nias 1911 list	1375/1376	chôra	NA	hun <unsp.>	their (female) [ID_1375]; their (male) [ID_1376]	kata ganti empunya orang ke III jamak (perempuan) [ID_1375]; kata ganti empunya orang ke III jamak (laki-laki) [ID_1376]	848	863	971	FALSE									THEIR	2400	https://concepticon.clld.org/parameters/2400
 the Nias 1911 list	1378	chônia	NA	zijn	his	kata ganti empunya orang ke III tunggal (laki-laki)	849	864	972	FALSE									HIS (GENITIVE OF HE)	2473	https://concepticon.clld.org/parameters/2473
 the Nias 1911 list	1379	ha nihā	NA	wie	who?	siapa	850	865	973	TRUE	who								WHO	1235	https://concepticon.clld.org/parameters/1235
 the Nias 1911 list	1379	hatā	NA	wie	who?	siapa	850	865	973	TRUE	who								WHO	1235	https://concepticon.clld.org/parameters/1235
@@ -1336,7 +1336,7 @@ the Nias 1911 list	1408	iada'a	NA	nu	now	sekarang	790	810	991	FALSE									NOW	
 the Nias 1911 list	1408	iaha	NA	nu	now	sekarang	790	810	991	FALSE									NOW	1376	https://concepticon.clld.org/parameters/1376
 the Nias 1911 list	1409	dania	NA	straks	shortly	sebentar lagi	791	811	992	FALSE									SOON	703	https://concepticon.clld.org/parameters/703
 the Nias 1911 list	1411	mefôna	NA	vroeger	formerly	tempo hari	793	812	993	FALSE									ONCE (IN THE PAST)	2914	https://concepticon.clld.org/parameters/2914
-the Nias 1911 list	1412/1413	fôna	NA	voor <unsp.>	before	sebelum	794	813	-	FALSE									BEFORE	1882	https://concepticon.clld.org/parameters/1882
+the Nias 1911 list	1412/1413	fôna	NA	voor <unsp.>	before (place) [ID_1412]; before (time) [ID_1413]	di muka [ID_1412]; sebelum [ID_1413]	794	813	-	FALSE									BEFORE	1882	https://concepticon.clld.org/parameters/1882
 the Nias 1911 list	1416	megē	NA	zoe_ven	a moment ago	tadi	797	815	995	FALSE									ONCE (IN THE PAST)	2914	https://concepticon.clld.org/parameters/2914
 the Nias 1911 list	1418	menewi	NA	gisteren	yesterday	kemarin	798	816	997	FALSE									YESTERDAY	1174	https://concepticon.clld.org/parameters/1174
 the Nias 1911 list	1418	me owi	NA	gisteren	yesterday	kemarin	798	816	997	FALSE									YESTERDAY	1174	https://concepticon.clld.org/parameters/1174
@@ -1374,8 +1374,8 @@ the Nias 1911 list	1439	moroi jaŵa	NA	van boven	from above	dari atas	812	830	1
 the Nias 1911 list	1439	moroi laŵa	NA	van boven	from above	dari atas	812	830	1018	FALSE									ABOVE	1741	https://concepticon.clld.org/parameters/1741
 the Nias 1911 list	1440	taoe	119	onder	under	di bawah	813	831	1019	FALSE			barô	under something					BELOW OR UNDER	1485	https://concepticon.clld.org/parameters/1485
 the Nias 1911 list	1441	moroi taoe	NA	van onderen	from underneath	dari bawah	814	832	1020	FALSE									BELOW OR UNDER	1485	https://concepticon.clld.org/parameters/1485
-the Nias 1911 list	1442/1443	i'oroi-iroegi	NA	van-tot <unsp.>			804	822	1021	FALSE									NA	NA	NA
-the Nias 1911 list	1442/1443	moroi-iroegi	NA	van-tot <unsp.>			804	822	1021	FALSE									NA	NA	NA
+the Nias 1911 list	1442/1443	i'oroi-iroegi	NA	van-tot <unsp.>	from-to (place) [ID_1442]; from-to (time) [ID_1443]	dari-hingga (tempat) [ID_1442]; dari-hingga (waktu) [ID_1443]	804	822	1021	FALSE									NA	NA	NA
+the Nias 1911 list	1442/1443	moroi-iroegi	NA	van-tot <unsp.>	from-to (place) [ID_1442]; from-to (time) [ID_1443]	dari-hingga (tempat) [ID_1442]; dari-hingga (waktu) [ID_1443]	804	822	1021	FALSE									NA	NA	NA
 the Nias 1911 list	1445	ba ngai	120	bij	at	di, pada	816	833	1022	TRUE			ba ngai						AT	1461	https://concepticon.clld.org/parameters/1461
 the Nias 1911 list	1445	fao	120	bij	at	di, pada	816	833	1022	TRUE			fao						AT	1461	https://concepticon.clld.org/parameters/1461
 the Nias 1911 list	1445	faochô	120	bij	at	di, pada	816	833	1022	TRUE			faochô						AT	1461	https://concepticon.clld.org/parameters/1461
@@ -1437,7 +1437,7 @@ no. 249	1539	halô/ta'oe nidanô ba wanasa noechagoe	NA	haal water om mijn kle
 no. 249	1540	sofoe manoe chônia, mate domboea, dôrô ibe'e	NA	vraag hem om een paar kippen, misschien geeft hij ze	ask him for a few chickens perhaps he will give them	minta kepada dia beberapa ekor ayam, barangkali ia akan memberikannya	NA	NA	NA	NA	NA	NA							NA	NA	NA
 no. 249	1541	si tebai molo'ô ja'o, torôi foeri	NA	wie mij niet volgen kan moet hier blijven	whoever can not keep up, should stay here	siapa yang tidak sanggup mengikuti saya, harus tinggal di sini	NA	NA	NA	NA	NA	NA							NA	NA	NA
 no. 249	1542	oerôi daroea niha ba da'a	NA	ik laat hier twee mannen achter	here I am leaving two men behind	saya meninggalkan dua orang di sini	NA	NA	NA	NA	NA	NA							NA	NA	NA
-no. 249	1543	me no mate razo, tobali manoewô ira	NA	na de dood van de koning brak een oorlog uit	war broke out after the death of the king	perang timbul setelah kematlan raja	NA	NA	NA	NA	NA	NA							NA	NA	NA
+no. 249	1543	me no mate razo, tobali manoewô ira	NA	na de dood van de koning brak een oorlog uit	war broke out after the death of the king	perang timbul setelah kematian raja	NA	NA	NA	NA	NA	NA							NA	NA	NA
 no. 249	1544	ha zi môna ba wanoewô andrô ?	NA	wie heeft in de oorlog overwonnen?	who won the war?	siapa yang menang dalam peperangan itu?	NA	NA	NA	NA	NA	NA							NA	NA	NA
 no. 249	1545	hadia mbôrô wa mofôche ira ?	NA	waardoor zijn deze lieden ziek geworden?	what made these people ill?	apa yang menyebabkan orang-orang ini menjadi sakit?	NA	NA	NA	NA	NA	NA							NA	NA	NA
 no. 249	1546	so zamadôhô fôchôoe/so rangila mamadoho fôchôoe	NA	er is iemand die u genezen kan	there is someone who can make you better	ada orang yang dapat menyembuhkan anda	NA	NA	NA	NA	NA	NA							NA	NA	NA
